@@ -3,6 +3,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://sszyc8.com',
-    base: 'main',
+    site: 'sszyc8.github.io',
 });
