@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>stoicopa</title><description>My personal hamster wheel.</description><link>https://www.erfianugrah.com/</link><language>en-us</language><item><title>Adam</title><link>https://www.erfianugrah.com/long_form/adam/</link><guid isPermaLink="true">https://www.erfianugrah.com/long_form/adam/</guid><description>I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.</description><pubDate>Tue, 25 Dec 2018 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;import MasonryLayout from &apos;../../../components/Masonry.astro&apos;;&lt;/p&gt;
+&lt;p&gt;&amp;lt;MasonryLayout images={[
+{ src: &quot;https://cdn.erfianugrah.com/Adam_1.JPG&quot;, alt: &quot;Adam 1&quot; },
+{ src: &quot;https://cdn.erfianugrah.com/Adam_2.JPG&quot;, alt: &quot;Adam 2&quot; },
+{ src: &quot;https://cdn.erfianugrah.com/Adam_3.JPG&quot;, alt: &quot;Adam 3&quot; },
+{ src: &quot;https://cdn.erfianugrah.com/Adam_4.JPG&quot;, alt: &quot;Adam 4&quot; },
+]} /&amp;gt;&lt;/p&gt;
+</content:encoded><author>Erfi Anugrah</author></item></channel></rss>
