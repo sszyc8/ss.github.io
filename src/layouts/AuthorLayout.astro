@@ -3,7 +3,6 @@ import BaseLayout from "./BaseLayout.astro";
 import "../styles/glightbox.css";
 import Prose from "../components/Prose.astro";
 import { getImage, Image } from "astro:assets";
-import { choImage } from "../components/LocalImage.astro";
 const { frontmatter } = Astro.props;
 const updatedDate = frontmatter?.updatedDate
   .toDateString()
@@ -27,10 +26,10 @@ let baseUrl = new URL(Astro.request.url).origin;
 
 const metaImage = image
   ? await getImage({
-      src: choImage(image),
+      src: image,
       alt: alt,
       inferSize: true,
-      height: 720,
+      height: "720",
       decoding: "async",
       format: "webp",
     })
@@ -53,7 +52,7 @@ const metaImage = image
         <div>
           <div class="md:h-[480px] h-[360px]">
             <Image
-              src={choImage(image)}
+              src={image}
               alt={alt}
               inferSize
               height={720}

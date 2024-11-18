@@ -5,7 +5,6 @@ import Prose from "../components/Prose.astro";
 import { getImage } from "astro:assets";
 import HeroImage from "../components/HeroImage.tsx";
 import NextPost from "../components/NextPost.astro";
-import { choImage } from "../components/LocalImage.astro";
 
 const { frontmatter, currentSlug, collection } = Astro.props;
 const updatedDate = frontmatter?.updatedDate
@@ -30,10 +29,10 @@ let baseUrl = new URL(Astro.request.url).origin;
 
 const backgroundImage = image
   ? await getImage({
-      src: choImage(image),
+      src: image,
       alt: alt,
-      width: 3840,
-      height: 2160,
+      width: "3840",
+      height: "2160",
       decoding: "async",
       format: "avif",
     })
@@ -41,10 +40,10 @@ const backgroundImage = image
 
 const mobileBackgroundImage = image
   ? await getImage({
-      src: choImage(image),
+      src: image,
       alt: alt,
-      width: 1920,
-      height: 1080,
+      width: "1920",
+      height: "1080",
       decoding: "async",
       format: "avif",
       quality: "65",
@@ -53,10 +52,10 @@ const mobileBackgroundImage = image
 
 const metaImage = image
   ? await getImage({
-      src: choImage(image),
+      src: image,
       alt: alt,
-      width: 1280,
-      height: 720,
+      width: "1280",
+      height: "720",
       decoding: "async",
       format: "webp",
       loading: "lazy",

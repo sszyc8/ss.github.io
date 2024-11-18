@@ -1,20 +1,18 @@
 ---
-import { getImage } from "astro:assets";
 import "../styles/MasonryLayout.css";
-import { choImage } from "./LocalImage.astro";
+import { getImage } from "astro:assets";
 const { images } = Astro.props;
-
 const imageAssets = await Promise.all(
   images.map(async (image) => {
     if (image) {
       return await getImage({
-        src: choImage(image.src),
+        src: image.src,
         alt: image.alt,
         inferSize: true,
-        width: 3840,
+        width: "3840",
         decoding: "async",
         format: "avif",
-        loading: "lazy",
+        loading: "lazy"
       });
     }
     return null;
@@ -44,3 +42,4 @@ const imageAssets = await Promise.all(
   }
 </div>
 <script src="../scripts/lightbox.js"></script>
+

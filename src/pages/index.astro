@@ -3,7 +3,6 @@ import Homepage from "../components/Homepage.astro";
 const { pageTitle } = Astro.props;
 import { getCollection } from "astro:content";
 import { getImage } from "astro:assets";
-import { choImage } from "../components/LocalImage.astro";
 
 const collections = ["long_form", "short_form", "muses", "zeitweilig"];
 let allImages = { large: [], medium: [], small: [] };
@@ -19,7 +18,7 @@ for (let collection of collections) {
   const imagePromises = postsWithImages.map(async (post) => {
     const [largeImage, mediumImage, smallImage] = await Promise.all([
       getImage({
-        src: choImage(post.data.image.src),
+        src: post.data.image.src,
         alt: post.data.image.alt,
         width: 1920,
         height: 1080,
@@ -28,7 +27,7 @@ for (let collection of collections) {
         quality: 65,
       }),
       getImage({
-        src: choImage(post.data.image.src),
+        src: post.data.image.src,
         alt: post.data.image.alt,
         width: 1280,
         height: 720,
@@ -37,7 +36,7 @@ for (let collection of collections) {
         quality: 65,
       }),
       getImage({
-        src: choImage(post.data.image.src),
+        src: post.data.image.src,
         alt: post.data.image.alt,
         width: 854,
         height: 480,

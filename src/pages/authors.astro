@@ -1,8 +1,8 @@
 ---
 import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
 import { sortByDate } from "../components/sortbydate";
-import BaseLayout from "../layouts/BaseLayout.astro";
 const pageTitle = "Authors";
 const allAuthors = await getCollection("authors");
 ---
