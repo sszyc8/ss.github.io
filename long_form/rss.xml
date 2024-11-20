@@ -1,10 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>stoicopa</title><description>My personal hamster wheel.</description><link>https://www.erfianugrah.com/</link><language>en-us</language><item><title>Adam</title><link>https://www.erfianugrah.com/long_form/adam/</link><guid isPermaLink="true">https://www.erfianugrah.com/long_form/adam/</guid><description>I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.</description><pubDate>Tue, 25 Dec 2018 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>sszyc8</title><description>仓鼠转轮</description><link>https://www.sszyc8.com/</link><language>zh-CN</language><item><title>beijing</title><link>https://www.sszyc8.com/long_form/beijing/</link><guid isPermaLink="true">https://www.sszyc8.com/long_form/beijing/</guid><description>I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.</description><pubDate>Tue, 25 Dec 2018 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;import MasonryLayout from &apos;../../../components/Masonry.astro&apos;;&lt;/p&gt;
-&lt;p&gt;&amp;lt;MasonryLayout images={[
+&lt;p&gt;import MasonryLayout from &quot;../../../components/Masonry.astro&quot;;&lt;/p&gt;
+&lt;p&gt;&amp;lt;MasonryLayout
+images={[
 { src: &quot;https://cdn.erfianugrah.com/Adam_1.JPG&quot;, alt: &quot;Adam 1&quot; },
 { src: &quot;https://cdn.erfianugrah.com/Adam_2.JPG&quot;, alt: &quot;Adam 2&quot; },
 { src: &quot;https://cdn.erfianugrah.com/Adam_3.JPG&quot;, alt: &quot;Adam 3&quot; },
 { src: &quot;https://cdn.erfianugrah.com/Adam_4.JPG&quot;, alt: &quot;Adam 4&quot; },
+]}
+/&amp;gt;&lt;/p&gt;
+</content:encoded><author>sszyc8</author></item><item><title>🌲</title><link>https://www.sszyc8.com/long_form/dong-ling-shan-tree/</link><guid isPermaLink="true">https://www.sszyc8.com/long_form/dong-ling-shan-tree/</guid><description>夏天的某个日子，我来到了一个山顶，那里有一颗独树，挺拔而美丽，周围环境宁静得让人心旷神怡。在这棵树旁，还有一只马，正悠闲地吃着草。看着这幅自然的画面，我忍不住拿起相机，想把它们记录下来。</description><pubDate>Tue, 25 Dec 2018 16:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;small&amp;gt;由AI生成文案&amp;lt;/small&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;夏天的某个日子，我来到了一个山顶，那里有一颗独树，挺拔而美丽，周围环境宁静得让人心旷神怡。在这棵树旁，还有一只马，正悠闲地吃着草。看着这幅自然的画面，我忍不住拿起相机，想把它们记录下来。&lt;/p&gt;
+&lt;p&gt;我拍了两张照片。第一张只有那棵树，树叶在微风中轻轻摇摆，显得格外生动。光线透过树叶洒下来，仿佛给它披上了一层金色的光辉。第二张则是树和那只吃草的马在一起，马儿低着头，专注地享受着美味的草，画面温馨而和谐。&lt;/p&gt;
+&lt;p&gt;这两张照片是我最满意的。它们不仅捕捉了那个瞬间的美丽，也让我感受到了一种宁静与自在。只有树的照片让我体会到孤独的坚韧，而树和马的合影则传达了生活中简单而美好的陪伴。&lt;/p&gt;
+&lt;p&gt;每次看到这两张照片，我都能回想起那天的阳光与微风，心中充满了平静。希望以后能有更多这样的时刻，让我继续去发现和记录生活中的点滴美好。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;import MasonryLayout from &quot;../../../components/Masonry.astro&quot;;&lt;/p&gt;
+&lt;p&gt;&amp;lt;MasonryLayout
+images={[
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1486.jpg&quot;, alt: &quot;树1&quot; },
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1475-已增强-降噪.jpg&quot;, alt: &quot;树2&quot; },
+]}
+/&amp;gt;&lt;/p&gt;
+</content:encoded><author>sszyc8</author></item><item><title>🍂</title><link>https://www.sszyc8.com/long_form/leaf/</link><guid isPermaLink="true">https://www.sszyc8.com/long_form/leaf/</guid><description>秋天来了，满地的黄色落叶就像一幅温暖的画，轻轻诉说着季节的变化。每一片落叶都带着过去的故事，提醒我们生活的每个阶段都有它的意义。</description><pubDate>Tue, 25 Dec 2018 16:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;由AI生成文案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;秋天来了，满地的黄色落叶就像一幅温暖的画，轻轻诉说着季节的变化。每一片落叶都带着过去的故事，提醒我们生活的每个阶段都有它的意义。&lt;/p&gt;
+&lt;p&gt;在这个丰收的季节，阳光洒在树叶上，闪烁着金色的光芒。它们曾在春天的温暖中茁壮成长，在夏天的阳光下繁茂，就像我们在青春岁月里努力追梦。这时，落叶的静谧和成熟似乎在告诉我们：所有的努力终将开花结果。&lt;/p&gt;
+&lt;p&gt;可是，落叶不仅仅意味着成熟，它们的飘落也象征着放下和变化。在生活中，我们常常需要做出选择，有些东西不得不放弃。就像树木在秋天掉下叶子，为即将到来的冬天做准备，我们也需要在某些时刻放下过往，才能迎接新的机会。每一片落叶都是一种释然，告诉我们有些事情是时候告别了。&lt;/p&gt;
+&lt;p&gt;虽然秋天会带来一点孤独，但这种宁静也是自我发现的宝贵时刻。在这个季节，我们可以停下来，反思自己的经历和未来的方向。就像随风飘舞的落叶，它们虽孤单，却在寻找新的归宿。孤独的时刻也能让我们更深刻地理解自己，找到内心的平静。&lt;/p&gt;
+&lt;p&gt;秋天的黄色落叶，不仅是自然的循环，也是我们人生的缩影。它教会我们珍惜每一个阶段，无论是丰收的喜悦，还是放下的勇气。每一次变化，都是为了新的开始。让我们在这个金色的季节里，怀揣希望，期待每一个春天的到来。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;import MasonryLayout from &apos;../../../components/Masonry.astro&apos;;&lt;/p&gt;
+&lt;p&gt;&amp;lt;MasonryLayout images={[
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1127-已增强-降噪.jpg&quot;, alt: &quot;leaf3&quot; },
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1125-已增强-降噪.jpg&quot;, alt: &quot;leaf2&quot; },
 ]} /&amp;gt;&lt;/p&gt;
-</content:encoded><author>Erfi Anugrah</author></item></channel></rss>
+</content:encoded><author>sszyc8</author></item><item><title>Warm</title><link>https://www.sszyc8.com/long_form/warm/</link><guid isPermaLink="true">https://www.sszyc8.com/long_form/warm/</guid><description>I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.</description><pubDate>Mon, 20 Nov 2023 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I met Adam in an paradoxically opposed situation when compared to this project that he ended up in - a contrast of bits and bytes vs. the physical medium. This paradox is also characteristic of the place that the photos were taken at - fond yet also melancholic memories of where he grew up.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;import MasonryLayout from &quot;../../../components/Masonry.astro&quot;;&lt;/p&gt;
+&lt;p&gt;&amp;lt;MasonryLayout
+images={[
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1205.jpg&quot;, alt: &quot;Warm 1&quot; },
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1206.jpg&quot;, alt: &quot;Warm 2&quot; },
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1208.jpg&quot;, alt: &quot;Warm 2&quot; },
+{ src: &quot;http://10.20.30.1:8022/images/Z30_1233-已增强-降噪.jpg&quot;, alt: &quot;Warm 2&quot; },
+]}
+/&amp;gt;&lt;/p&gt;
+</content:encoded><author>sszyc8</author></item></channel></rss>

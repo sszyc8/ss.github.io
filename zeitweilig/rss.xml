@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>stoicopa</title><description>My personal hamster wheel.</description><link>https://www.erfianugrah.com/</link><language>en-us</language><item><title>The Study of Erfinism</title><link>https://www.erfianugrah.com/zeitweilig/what-is-erfi/</link><guid isPermaLink="true">https://www.erfianugrah.com/zeitweilig/what-is-erfi/</guid><description>The discipline of Erfinism is a relatively young field of studies, first established in 1994 in Singapore.</description><pubDate>Fri, 03 Jun 2022 06:06:06 GMT</pubDate><content:encoded>&lt;p&gt;import { Code } from &apos;astro:components&apos;;
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>sszyc8</title><description>仓鼠转轮</description><link>https://www.sszyc8.com/</link><language>zh-CN</language><item><title>The Study of Erfinism</title><link>https://www.sszyc8.com/zeitweilig/what-is-erfi/</link><guid isPermaLink="true">https://www.sszyc8.com/zeitweilig/what-is-erfi/</guid><description>The discipline of Erfinism is a relatively young field of studies, first established in 1994 in Singapore.</description><pubDate>Fri, 03 Jun 2022 06:06:06 GMT</pubDate><content:encoded>&lt;p&gt;import { Code } from &apos;astro:components&apos;;
 import since94 from &apos;../../scripts/since94.js&apos;;&lt;/p&gt;
 &lt;h1&gt;Exposé for a PhD thesis&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Working title: What is Erfi?&lt;/strong&gt;&lt;/p&gt;
@@ -156,4 +156,4 @@ Sneking
 
 &quot;I think I give less of a fuck now. And I already give so little&quot; (May 30, 2022)
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded><author>Lena</author></item></channel></rss>
+</content:encoded><author>sszyc8</author></item></channel></rss>
